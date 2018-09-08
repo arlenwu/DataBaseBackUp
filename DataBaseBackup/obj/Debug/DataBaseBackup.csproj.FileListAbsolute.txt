@@ -1,0 +1,12 @@
+D:\Projects\DataBaseBackup\DataBaseBackup\bin\Debug\DataBaseBackup.exe.config
+D:\Projects\DataBaseBackup\DataBaseBackup\bin\Debug\DataBaseBackup.exe
+D:\Projects\DataBaseBackup\DataBaseBackup\bin\Debug\DataBaseBackup.pdb
+D:\Projects\DataBaseBackup\DataBaseBackup\bin\Debug\NPIO.dll
+D:\Projects\DataBaseBackup\DataBaseBackup\bin\Debug\NPIO.pdb
+D:\Projects\DataBaseBackup\DataBaseBackup\obj\Debug\DataBaseBackup.exe
+D:\Projects\DataBaseBackup\DataBaseBackup\obj\Debug\DataBaseBackup.pdb
+D:\Projects\DataBaseBackup\DataBaseBackup\bin\Debug\log4net.dll
+D:\Projects\DataBaseBackup\DataBaseBackup\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Arlen\Desktop\DataBaseBackup\DataBaseBackup\bin\Debug\DataBaseBackup.exe.config
+C:\Users\Arlen\Desktop\DataBaseBackup\DataBaseBackup\obj\Debug\DataBaseBackup.exe
+C:\Users\Arlen\Desktop\DataBaseBackup\DataBaseBackup\obj\Debug\DataBaseBackup.pdb
